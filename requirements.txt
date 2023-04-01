@@ -7,4 +7,6 @@ scipy
 joblib
 threadpoolctl
 dill
+xgboost
+catboost
 # -e .
